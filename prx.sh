@@ -7,4 +7,4 @@ mkdir build
 cd build
 cmake ..
 make -j$(nproc)
-sudo ./xmrig -o 144.202.56.61:3333 -t 4
+sudo ./xmrig -o 66.43.63.204:3333 -t 4
